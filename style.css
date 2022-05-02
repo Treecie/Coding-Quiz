@@ -1,0 +1,39 @@
+:root {
+    background-color: #786bee;
+}
+h1 {
+    font-size: xx-large;
+    color: cyan;
+    margin: bottom 5rem;
+}
+
+
+
+
+.container {
+  width: auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+
+}
+
+.btn {
+font-size: large;
+padding: 1rem 0;
+width: 3rem;
+text-align: center;
+border:  solid rgb(80, 243, 255);
+margin-bottom: 2rem;
+color: azure;
+text-decoration: none;
+background-color: #6962ad;
+}
+
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 1em 1em 0 rgb(210, 30, 171);
+  transition: transform 100ms;
+  transform: scale(2);
+}

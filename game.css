@@ -1,0 +1,20 @@
+.choice-container {
+display: flex;
+margin-bottom: 1em;
+width: auto;
+font-size: large;
+border: 0em rgb(237, 162, 100);
+background-color: azure;
+}
+
+.choice-prefix  {
+ padding: 0em;
+ background-color: aliceblue;
+ color: blue;
+
+}
+.choice-text {
+    padding-top: 2em;
+}
+
+
